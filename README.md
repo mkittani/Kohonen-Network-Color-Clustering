@@ -2,7 +2,7 @@
 
 Welcome to the **Kohonen Network Color Clustering** project! This project demonstrates how to apply a Kohonen Self-Organizing Map (SOM) to cluster colors using an unsupervised machine learning approach. With this tool, you can train **(without any training built-in methods)** an SOM on a custom set of colors or let the program generate random colors for you. The application provides an interactive GUI for configuring the network and visualizing the clustering process before and after training.
 
-## Features 🚀
+## Features
 
 - **Interactive GUI**: Configure the SOM parameters using a user-friendly gui interface built with Tkinter.
 - **Customizable Settings**: 
@@ -15,7 +15,7 @@ Welcome to the **Kohonen Network Color Clustering** project! This project demons
 - **Visualization**: See the clustering results in real-time with visual representations of the grid before and after training.
 - **Repeat Training**: Restart the training process to refine the clustering and adjust parameters as needed.
 
-## Requirements 📦
+## Requirements
 
 Before you start, make sure you have the following Python packages installed:
 
