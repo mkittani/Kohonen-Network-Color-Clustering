@@ -76,3 +76,7 @@ pip install numpy matplotlib
 
    _Visualization of the grid before and after **re-training user defined** colors._
 ![Training_With_Random_Colors](Images/4.png)  
+
+
+## Contributing
+Feel free to contribute by opening an issue or submitting a pull request.
