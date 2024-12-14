@@ -1,6 +1,6 @@
 # Kohonen Network Color Clustering
 
-Welcome to the **Kohonen Network Color Clustering** project! This project demonstrates how to apply a Kohonen Self-Organizing Map (SOM) to cluster colors using an unsupervised machine learning approach. With this tool, you can train **(without any training built-in methods)** an SOM on a custom set of colors or let the program generate random colors for you. The application provides an interactive GUI for configuring the network and visualizing the clustering process before and after training.
+This project demonstrates how to apply a Kohonen Self-Organizing Map (SOM) to cluster colors using an unsupervised machine learning approach. With this tool, you can train **(without any training built-in methods)** an SOM on a custom set of colors or let the program generate random colors for you. The application provides an interactive GUI for configuring the network and visualizing the clustering process before and after training.
 
 ## Features
 
