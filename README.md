@@ -63,3 +63,16 @@ pip install numpy matplotlib
    - If you would like to refine the clustering results, click the **Repeat Training** button.
    - This will retrain the SOM and update the visualization to show how the grid has changed.
 
+
+## Examples
+   _Visualization of the grid before and after **training random** colors._
+![Training_With_Random_Colors](Images/1.png)  
+
+   _Visualization of the grid before and after **re-training random** colors._
+![Training_With_Random_Colors](Images/2.png)  
+
+   _Visualization of the grid before and after **training user defined** colors._
+![Training_With_Random_Colors](Images/3.png)  
+
+   _Visualization of the grid before and after **re-training user defined** colors._
+![Training_With_Random_Colors](Images/4.png)  
